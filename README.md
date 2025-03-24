@@ -23,3 +23,21 @@ The objective of this project is to evaluate and compare different sampling tech
 ● region: the beneficiary's residential area in the US, northeast, southeast, southwest, northwest.
 
 ● charges: Individual medical costs billed by health insurance.
+
+## Key Findings
+
+● The insurance charge and age are positively related to each other. But it is not perfectly linear.
+
+● The charge and BMI value have a slight positive relationship.
+
+● The age ranges for both males and females are approximately equal.
+
+● Both females and males have approximately the same median medical cost.
+
+● The BMI value has a random variation with the age of the people.
+
+● Smokers pay higher charges for insurance than non-smokers. The median of smokers is about 30,000 while it is less than 10,000 in non-smokers.
+
+● The medical costs for both males and females are approximately equal. It shows that gender doesn’t influence the medical cost.
+
+
